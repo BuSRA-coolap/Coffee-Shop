@@ -2,12 +2,12 @@
 
 Welcome to my Coffee Website project—an immersive, beautifully designed web experience brewed especially for coffee enthusiasts.
 
-#Preview
+# Preview
 
 
 
 
-#Technolohies used:
+# Technolohies used:
 
 HTML5 for struckted content
 CSS3 for styling and responsive design
